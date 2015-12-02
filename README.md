@@ -1,2 +1,1 @@
-#Sample application
-Learning Ruby on Rails
+Application to learn Ruby on Rails
