@@ -1,1 +1,1 @@
-Application to learn Ruby on Rails
+Twitter clone application to learn Ruby on Rails
